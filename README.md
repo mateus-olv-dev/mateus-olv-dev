@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Mateus Oliveira
 <div>
-  - 📖 Estudando Desenvolvimento Web <br>
+  - 📖 Estudando Desenvolvimento de software- Front-end: React / Back-end: Java <br>
   - 🌎 Visite minha página pessoal: https://mateus-oliveira-portfolio.vercel.app/
 </div>
 
